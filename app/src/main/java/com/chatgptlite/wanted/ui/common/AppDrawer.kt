@@ -85,7 +85,7 @@ fun AppDrawer(
         DrawerItemHeader("Settings")
         ChatItem("Settings", Icons.Filled.Settings, false) { onChatClicked("Settings") }
         ProfileItem(
-            "lambiengcode (author)",
+            "sdufeRyh (author)",
             urlToImageAuthor,
         ) {
             UrlLauncher().openUrl(context = context, urlToGithub)
