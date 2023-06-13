@@ -1,6 +1,6 @@
 package com.chatgptlite.wanted.constants
 
-const val openAIApiKey = "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"
+const val openAIApiKey = ""
 
 const val urlToImageAppIcon = "https://res.cloudinary.com/apideck/image/upload/v1672442492/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/-4-ans_frontend_assets.images.poe.app_icon.png-26-8aa0a2e5f237894d_tbragv.png"
 const val urlToImageAuthor = "https://avatars.githubusercontent.com/u/60530946?v=4"
