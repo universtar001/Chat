@@ -60,7 +60,6 @@ chatgpt-kotlin应用的架构使用了MVP模式，使用了Dagger2等常用的�
 ├── gradlew
 ├── gradlew.bat
 └── settings.gradle
-
 功能实现：
 
 ​			应用程序目录包含***应用程序***的所有源代码和资源。它包含一个build.gradle文件，用于配置应用程序的构建过程，以及一个 proguard-rules.pro 文件，其中包含ProGuard的规则，ProGuard是一种用于收缩和混淆代码的工具。
